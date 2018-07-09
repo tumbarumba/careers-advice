@@ -1,8 +1,10 @@
 # Who Do You Want To Be?
 
 Who am I?
+* Joe Schmetzer (in the physical world)
+* @tumbarumba (on Twitter)
 * Developer
-* Lean and Agile Enthusiasist
+* Lean and Agile Enthusiast
 * Community Organiser for XTC
 * Mentor (Meet a Mentor)
 
@@ -17,6 +19,14 @@ Do not trust me
 * I have made many mistakes. For example:
   * xxx
   * xxx
+
+Dan Pink, Drive
+* Autonomy
+* Mastery
+* Purpose
+
+What's Your Vision?
+* My vision: https://exubero.com/2018/05/30/the-joy-of-work/ 
 
 You Probably Don't Know What You Want
 * You need to experience different situations, teams, companies, bosses
