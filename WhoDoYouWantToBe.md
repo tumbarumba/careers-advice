@@ -54,11 +54,28 @@ Communication and interpersonal skills will win every time
 * Feeling Good - story of how Dr Burns got his job by asking the interviewer about themselves using the 5 secrets
 
 Find a Mentor
+* Take control, find your own mentor
+  * They don't even need to know that they're a mentor
 * Meet a Mentor
 
-Find Many Mentors
-* Find the Right Mentor
-  * Picture of woman with many men leaning over her giving advice
+Advice to Juniors
+* Build the thing right
+* Practice communicating better
+
+Advice to Seniors
+* Build the right thing
+* Practice communicating better
+
+Advice to Managers
+* Your main method of influence is through culture
+  * Work to understand culture
+* Practice communicating better
+
+Communicating Better
+* Mutual Learning Model (Chris Agyris)
+* Non-Violent Communication
+* Clean Language
+* London Organisational Learning Meetup
 
 
 Interviews
