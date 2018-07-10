@@ -35,6 +35,9 @@ You're Going to Fail
 * You're not going to fail all the time, but...
 * Sometimes, things will go badly
 
+Goal Setting
+* GROW Model
+
 Psychological Biases
 * TODO: research
 * You Are Not So Smart
@@ -47,36 +50,31 @@ Psychological Biases
   * XTC session on the topic
 * Survivorship bias
 
-Goal Setting
-* GROW Model
-
-Communication and interpersonal skills will win every time
-* Feeling Good - story of how Dr Burns got his job by asking the interviewer about themselves using the 5 secrets
-
 Find a Mentor
 * Take control, find your own mentor
   * They don't even need to know that they're a mentor
 * Meet a Mentor
 
 Advice to Juniors
-* Build the thing right
+* Learn to build the thing right
 * Practice communicating better
 
 Advice to Seniors
-* Build the right thing
+* Learn to build the right thing
 * Practice communicating better
 
 Advice to Managers
-* Your main method of influence is through culture
-  * Work to understand culture
+* Learn to influence culture
 * Practice communicating better
+
+Communication and interpersonal skills will win every time
+* Feeling Good - story of how Dr Burns got his job by asking the interviewer about themselves using the 5 secrets
 
 Communicating Better
 * Mutual Learning Model (Chris Agyris)
 * Non-Violent Communication
 * Clean Language
 * London Organisational Learning Meetup
-
 
 Interviews
 * Need practice.
