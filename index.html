@@ -75,6 +75,19 @@
 
         }
         #title h2 { font-size: 1.2em; }
+
+        html.image-left div.slide-background.present {
+            background-position: left;
+            background-size: contain;
+            max-width: 60%;
+            max-height: 90%;
+            margin-left: 1em;
+            margin-top: 1em;
+        }
+        html.image-left section.present {
+            width: 50%;
+            left: 33%;
+        }
     </style>
 
     <!--[if lt IE 9]>
@@ -126,8 +139,8 @@
                     </ul>
                 </aside>
             </section>
-            <section id="drive">
-                <img src="images/drive-cover.jpg" class="stretch" style="float: left">
+            <section id="drive" data-background="images/drive-cover.jpg" data-state="image-left">
+                <h2>Drive</h2>
                 <ul>
                     <li class="fragment">Autonomy</li>
                     <li class="fragment">Mastery</li>
@@ -357,7 +370,7 @@
                 </aside>
             </section>
             <section id="communication">
-                <h2>Communication Advice</h2>
+                <h2>Better Communication</h2>
                 <ul>
                     <li class="fragment">Mutual Learning Model (Chris Agyris)</li>
                     <li class="fragment">Non-Violent Communication (Marshall Rosenberg)</li>
